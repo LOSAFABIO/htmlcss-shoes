@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primopaio{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+}
+
+.nav{
+    background:rgba(0,0,0,0.5);  
+}
+
+.numero{
+    border-radius: 20px;
+    background-color: white;
+    text-decoration: none;
+    position: fixed;
+    top: 20px;
+    right: 0px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.numero:hover{
+    box-shadow: 5px 2px rgba(0,0,0,0.5);
+}
+
+.uno{
+    margin-right: 140px;
+}
+
+
+.due{
+    margin-right: 80px;
+}
+
+.tre{
+    margin-right: 20px;
+}
+
+img,p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.secondopaio{
+    width: 100vw;
+    height: 100vh;
+    background-color: green;
+}
+
+.terzopaio{
+    width: 100vw;
+    height: 100vh;
+    background-color: yellow;
+}
+
+
+.G{
+    color: yellow;
+}
+
+.V{
+    color: green;
+}
+
+.colore{
+    font-weight: bold;
+    font-size: 50px;
+    word-spacing: 15px;
+    text-align: center;
+}
